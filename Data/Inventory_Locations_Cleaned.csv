@@ -1,0 +1,351 @@
+inventory_id,location_id,location_name,location_type,city,channel
+INV0001,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0002,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0003,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0004,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0005,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Online Store
+INV0006,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Online Store
+INV0007,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Online Store
+INV0008,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0009,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0010,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0011,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0012,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0013,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0014,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0015,LOC003,Chennai Velachery,Retail Outlet,Chennai,Online Store
+INV0016,LOC004,Chennai Warehouse,Warehouse,Chennai,Online Store
+INV0017,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Online Store
+INV0018,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0019,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0020,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Online Store
+INV0021,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0022,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0023,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0024,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0025,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0026,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0027,LOC003,Chennai Velachery,Retail Outlet,Chennai,Online Store
+INV0028,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0029,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0030,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Online Store
+INV0031,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0032,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Online Store
+INV0033,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Online Store
+INV0034,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0035,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0036,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0037,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0038,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0039,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0040,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0041,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Online Store
+INV0042,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0043,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Online Store
+INV0044,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0045,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Online Store
+INV0046,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0047,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0048,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0049,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0050,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0051,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0052,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0053,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0054,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0055,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0056,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0057,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Online Store
+INV0058,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0059,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0060,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0061,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0062,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0063,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0064,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0065,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Online Store
+INV0066,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0067,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Online Store
+INV0068,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0069,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Online Store
+INV0070,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0071,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0072,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0073,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0074,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0075,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0076,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0077,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0078,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Online Store
+INV0079,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0080,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Online Store
+INV0081,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0082,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0083,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0084,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0085,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0086,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0087,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0088,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0089,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0090,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0091,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Online Store
+INV0092,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0093,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0094,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0095,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0096,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0097,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0098,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0099,LOC003,Chennai Velachery,Retail Outlet,Chennai,Online Store
+INV0100,LOC004,Chennai Warehouse,Warehouse,Chennai,Online Store
+INV0101,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Online Store
+INV0102,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0103,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Online Store
+INV0104,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0105,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0106,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0107,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0108,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0109,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0110,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0111,LOC003,Chennai Velachery,Retail Outlet,Chennai,Online Store
+INV0112,LOC004,Chennai Warehouse,Warehouse,Chennai,Online Store
+INV0113,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0114,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0115,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0116,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0117,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0118,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0119,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0120,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0121,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0122,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0123,LOC003,Chennai Velachery,Retail Outlet,Chennai,Online Store
+INV0124,LOC004,Chennai Warehouse,Warehouse,Chennai,Online Store
+INV0125,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Online Store
+INV0126,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0127,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0128,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0129,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Online Store
+INV0130,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0131,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0132,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0133,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0134,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0135,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0136,LOC004,Chennai Warehouse,Warehouse,Chennai,Online Store
+INV0137,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0138,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0139,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0140,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0141,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0142,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0143,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0144,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0145,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0146,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0147,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0148,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0149,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Online Store
+INV0150,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Online Store
+INV0151,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0152,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Online Store
+INV0153,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Online Store
+INV0154,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0155,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0156,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0157,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0158,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0159,LOC003,Chennai Velachery,Retail Outlet,Chennai,Online Store
+INV0160,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0161,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0162,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0163,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0164,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0165,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Online Store
+INV0166,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0167,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0168,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0169,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0170,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0171,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0172,LOC004,Chennai Warehouse,Warehouse,Chennai,Online Store
+INV0173,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0174,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Online Store
+INV0175,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0176,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Online Store
+INV0177,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0178,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0179,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0180,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0181,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0182,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0183,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0184,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0185,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Online Store
+INV0186,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0187,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0188,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0189,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0190,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0191,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0192,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0193,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0194,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0195,LOC003,Chennai Velachery,Retail Outlet,Chennai,Online Store
+INV0196,LOC004,Chennai Warehouse,Warehouse,Chennai,Online Store
+INV0197,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0198,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0199,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0200,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0201,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0202,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0203,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0204,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0205,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0206,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0207,LOC003,Chennai Velachery,Retail Outlet,Chennai,Online Store
+INV0208,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0209,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Online Store
+INV0210,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Online Store
+INV0211,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0212,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0213,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0214,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0215,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0216,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0217,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0218,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0219,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0220,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0221,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0222,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0223,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Online Store
+INV0224,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0225,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Online Store
+INV0226,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0227,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0228,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0229,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0230,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0231,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0232,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0233,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0234,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0235,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Online Store
+INV0236,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0237,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Online Store
+INV0238,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0239,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0240,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0241,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0242,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0243,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0244,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0245,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Online Store
+INV0246,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0247,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0248,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0249,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0250,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0251,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0252,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0253,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0254,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Online Store
+INV0255,LOC003,Chennai Velachery,Retail Outlet,Chennai,Online Store
+INV0256,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0257,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0258,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0259,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0260,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Online Store
+INV0261,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0262,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0263,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0264,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0265,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0266,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0267,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0268,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0269,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0270,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Online Store
+INV0271,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0272,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0273,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0274,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0275,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0276,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0277,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0278,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0279,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0280,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0281,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0282,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Online Store
+INV0283,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0284,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Online Store
+INV0285,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0286,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0287,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0288,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Retail Store
+INV0289,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0290,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0291,LOC003,Chennai Velachery,Retail Outlet,Chennai,Online Store
+INV0292,LOC004,Chennai Warehouse,Warehouse,Chennai,Online Store
+INV0293,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0294,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0295,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Online Store
+INV0296,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0297,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0298,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0299,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0300,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0301,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0302,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0303,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0304,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0305,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0306,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0307,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0308,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Online Store
+INV0309,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0310,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0311,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0312,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0313,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Online Store
+INV0314,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0315,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0316,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0317,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0318,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Online Store
+INV0319,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Online Store
+INV0320,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Online Store
+INV0321,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0322,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0323,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0324,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0325,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0326,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0327,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0328,LOC004,Chennai Warehouse,Warehouse,Chennai,Retail Store
+INV0329,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0330,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Online Store
+INV0331,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Retail Store
+INV0332,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0333,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Online Store
+INV0334,LOC010,Madurai Warehouse,Warehouse,Madurai,Online Store
+INV0335,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Online Store
+INV0336,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0337,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0338,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store
+INV0339,LOC003,Chennai Velachery,Retail Outlet,Chennai,Retail Store
+INV0340,LOC004,Chennai Warehouse,Warehouse,Chennai,Online Store
+INV0341,LOC005,Coimbatore RS Puram,Retail Outlet,Coimbatore,Retail Store
+INV0342,LOC006,Coimbatore Gandhipuram,Retail Outlet,Coimbatore,Retail Store
+INV0343,LOC007,Coimbatore Warehouse,Warehouse,Coimbatore,Online Store
+INV0344,LOC008,Madurai KK Nagar,Retail Outlet,Madurai,Retail Store
+INV0345,LOC009,Madurai Anna Nagar,Retail Outlet,Madurai,Retail Store
+INV0346,LOC010,Madurai Warehouse,Warehouse,Madurai,Retail Store
+INV0347,LOC011,Chennai Tambaram,Retail Outlet,Chennai,Retail Store
+INV0348,LOC012,Coimbatore Saibaba Colony,Retail Outlet,Coimbatore,Online Store
+INV0349,LOC001,Chennai Anna Nagar,Retail Outlet,Chennai,Retail Store
+INV0350,LOC002,Chennai T Nagar,Retail Outlet,Chennai,Retail Store

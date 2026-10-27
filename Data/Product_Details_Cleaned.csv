@@ -1,0 +1,86 @@
+product_id,product_name,category,subcategory,size,color,season,supplier,unit_price,product_status
+PROD0001,Maternity Feeding Kurti,Maternity Clothing,Kurtis,XL,Beige,All Season,Kaveri Garments,540,Active
+PROD0002,Ankle Leggings,Non Maternity,Leggings,L,Black,Festive,Vasavi Fabrics,1650,Low Stock
+PROD0003,A-Line Feeding Kurti,Maternity Clothing,Kurtis,M,Maroon,Summer,Kaveri Garments,1460,Active
+PROD0004,Cotton Casual Dress,Non Maternity,Dresses,XL,Maroon,Monsoon,Coimbatore Knitwears,660,Discontinued
+PROD0005,Feeding T-Shirt,Maternity Clothing,Tshirts,S,Lavender,All Season,Sri Lakshmi Textiles,1270,Discontinued
+PROD0006,Maternity-Friendly Leggings,Non Maternity,Leggings,3XL,Pink,Festive,Coimbatore Knitwears,1310,Discontinued
+PROD0007,Feeding T-Shirt,Maternity Clothing,Tshirts,XL,Navy Blue,Summer,Sri Lakshmi Textiles,1250,Low Stock
+PROD0008,Rayon Kurti,Non Maternity,Kurtis,XXL,Black,Summer,Aishwarya Apparels,1770,Low Stock
+PROD0009,Feeding Lounge Set,Maternity Clothing,Tshirt Pant Sets,XL,Pink,Winter,Coimbatore Knitwears,620,Discontinued
+PROD0010,Printed Maternity Kurti,Maternity Clothing,Kurtis,M,Peach,All Season,Sri Lakshmi Textiles,660,Discontinued
+PROD0011,Maternity Oversized T-Shirt,Maternity Clothing,Tshirts,L,Peach,All Season,Aishwarya Apparels,990,Active
+PROD0012,Cotton Casual Dress,Non Maternity,Dresses,XXL,Black,Summer,Coimbatore Knitwears,1100,Active
+PROD0013,Maternity Oversized T-Shirt,Maternity Clothing,Tshirts,M,Peach,Monsoon,Royal Ethnic Suppliers,1020,Active
+PROD0014,Maxi Dress,Non Maternity,Dresses,XXL,Pink,Festive,Madura Textiles,620,Discontinued
+PROD0015,Nursing T-Shirt,Maternity Clothing,Tshirts,M,Navy Blue,Summer,Vasavi Fabrics,850,Active
+PROD0016,Maternity Lounge Set,Maternity Clothing,Loungewear,XXL,Mustard,All Season,Aishwarya Apparels,830,Active
+PROD0017,Maternity Feeding Kurti,Maternity Clothing,Kurtis,XXL,Green,Festive,Kaveri Garments,520,Discontinued
+PROD0018,A-Line Feeding Kurti,Maternity Clothing,Kurtis,XXL,Peach,Monsoon,Vasavi Fabrics,1860,Active
+PROD0019,A-Line Feeding Kurti,Maternity Clothing,Kurtis,M,Black,Winter,Chennai Cotton Works,1040,Active
+PROD0020,Cotton Kurti,Non Maternity,Kurtis,L,Peach,Festive,Madura Textiles,1400,Active
+PROD0021,Feeding Lounge Set,Maternity Clothing,Tshirt Pant Sets,L,Pink,All Season,Chennai Cotton Works,540,Active
+PROD0022,Maternity T-Shirt Pant Set,Maternity Clothing,Tshirt Pant Sets,XL,Navy Blue,All Season,Kaveri Garments,1080,Discontinued
+PROD0023,Cotton Kurti,Non Maternity,Kurtis,XXL,Maroon,Winter,Aishwarya Apparels,540,Active
+PROD0024,Straight Kurti,Non Maternity,Kurtis,M,Peach,All Season,Sri Lakshmi Textiles,1860,Active
+PROD0025,A-Line Feeding Kurti,Maternity Clothing,Kurtis,S,Black,Summer,Coimbatore Knitwears,1710,Active
+PROD0026,A-Line Feeding Kurti,Maternity Clothing,Kurtis,XXL,Mustard,All Season,Aishwarya Apparels,1560,Active
+PROD0027,Maternity Lounge Set,Maternity Clothing,Loungewear,M,Navy Blue,Festive,Madura Textiles,820,Active
+PROD0028,Straight Kurti,Non Maternity,Kurtis,M,White,Festive,Chennai Cotton Works,1580,Active
+PROD0029,A-Line Feeding Kurti,Maternity Clothing,Kurtis,3XL,Lavender,Winter,Coimbatore Knitwears,540,Discontinued
+PROD0030,Straight Kurti,Non Maternity,Kurtis,M,Green,Winter,Kaveri Garments,990,Active
+PROD0031,Printed Ethnic Set,Non Maternity,Ethnic Wear,S,Maroon,Festive,Chennai Cotton Works,1130,Low Stock
+PROD0032,Maternity Cotton Nightwear,Maternity Clothing,Loungewear,XL,Pink,Festive,Sri Lakshmi Textiles,1190,Low Stock
+PROD0033,A-Line Feeding Kurti,Maternity Clothing,Kurtis,XL,Maroon,Festive,Vasavi Fabrics,1310,Active
+PROD0034,Printed Maternity Kurti,Maternity Clothing,Kurtis,M,Green,All Season,Madura Textiles,750,Active
+PROD0035,Printed Ethnic Set,Non Maternity,Ethnic Wear,XL,Maroon,Winter,Vasavi Fabrics,560,Discontinued
+PROD0036,Maternity Lounge Set,Maternity Clothing,Loungewear,S,Green,Summer,Sri Lakshmi Textiles,1000,Active
+PROD0037,Maternity Lounge Set,Maternity Clothing,Loungewear,M,White,All Season,Sri Lakshmi Textiles,1460,Active
+PROD0038,Floral Dress,Non Maternity,Dresses,M,Black,Summer,Vasavi Fabrics,760,Active
+PROD0039,Cotton Kurti,Non Maternity,Kurtis,XL,Beige,Summer,Vasavi Fabrics,1750,Active
+PROD0040,A-Line Feeding Kurti,Maternity Clothing,Kurtis,L,Navy Blue,Festive,Royal Ethnic Suppliers,880,Discontinued
+PROD0041,Feeding T-Shirt,Maternity Clothing,Tshirts,XXL,Green,Festive,Madura Textiles,830,Discontinued
+PROD0042,Ankle Leggings,Non Maternity,Leggings,XL,Maroon,Summer,Coimbatore Knitwears,1530,Active
+PROD0043,Maternity Lounge Set,Maternity Clothing,Loungewear,M,Pink,Winter,Kaveri Garments,840,Active
+PROD0044,Floral Dress,Non Maternity,Dresses,M,Green,Monsoon,Chennai Cotton Works,840,Low Stock
+PROD0045,Cotton Kurti,Non Maternity,Kurtis,XL,Beige,All Season,Coimbatore Knitwears,570,Discontinued
+PROD0046,Festive Kurti Set,Non Maternity,Ethnic Wear,L,Pink,Summer,Chennai Cotton Works,860,Active
+PROD0047,Straight Kurti,Non Maternity,Kurtis,L,White,Festive,Madura Textiles,790,Active
+PROD0048,Feeding T-Shirt,Maternity Clothing,Tshirts,XL,Black,Winter,Royal Ethnic Suppliers,620,Active
+PROD0049,Maxi Dress,Non Maternity,Dresses,L,Green,Festive,Kaveri Garments,1270,Active
+PROD0050,Cotton Casual Dress,Non Maternity,Dresses,S,Peach,Summer,Sri Lakshmi Textiles,1330,Active
+PROD0051,Maternity Feeding Kurti,Maternity Clothing,Kurtis,XXL,Maroon,Summer,Royal Ethnic Suppliers,1890,Active
+PROD0052,Feeding T-Shirt,Maternity Clothing,Tshirts,XL,Green,Summer,Aishwarya Apparels,690,Active
+PROD0053,Ankle Leggings,Non Maternity,Leggings,XXL,Peach,All Season,Vasavi Fabrics,1390,Low Stock
+PROD0054,Maternity Lounge Set,Maternity Clothing,Loungewear,XL,Beige,Festive,Chennai Cotton Works,1760,Discontinued
+PROD0055,Nursing T-Shirt,Maternity Clothing,Tshirts,L,Lavender,Festive,Coimbatore Knitwears,1040,Discontinued
+PROD0056,Printed Ethnic Set,Non Maternity,Ethnic Wear,M,Green,Festive,Vasavi Fabrics,970,Low Stock
+PROD0057,Floral Dress,Non Maternity,Dresses,L,Mustard,Winter,Aishwarya Apparels,710,Active
+PROD0058,Printed Ethnic Set,Non Maternity,Ethnic Wear,M,Pink,Winter,Kaveri Garments,1190,Active
+PROD0059,Maternity Lounge Set,Maternity Clothing,Loungewear,M,Pink,Festive,Madura Textiles,1060,Discontinued
+PROD0060,Printed Maternity Kurti,Maternity Clothing,Kurtis,L,Maroon,Summer,Vasavi Fabrics,1470,Low Stock
+PROD0061,Anarkali Kurti,Non Maternity,Ethnic Wear,XXL,White,Festive,Chennai Cotton Works,1060,Active
+PROD0062,Ankle Leggings,Non Maternity,Leggings,L,Maroon,Winter,Coimbatore Knitwears,1520,Active
+PROD0063,Cotton Leggings,Non Maternity,Leggings,XXL,Beige,All Season,Sri Lakshmi Textiles,1310,Active
+PROD0064,Feeding T-Shirt,Maternity Clothing,Tshirts,M,Lavender,All Season,Coimbatore Knitwears,670,Discontinued
+PROD0065,Cotton Kurti,Non Maternity,Kurtis,XXL,Black,All Season,Coimbatore Knitwears,820,Discontinued
+PROD0066,Maternity Feeding Kurti,Maternity Clothing,Kurtis,M,Lavender,Summer,Sri Lakshmi Textiles,660,Low Stock
+PROD0067,Maternity Oversized T-Shirt,Maternity Clothing,Tshirts,M,Maroon,Festive,Vasavi Fabrics,1130,Active
+PROD0068,Nursing T-Shirt,Maternity Clothing,Tshirts,M,Lavender,Festive,Chennai Cotton Works,550,Active
+PROD0069,Nursing T-Shirt,Maternity Clothing,Tshirts,XL,Maroon,All Season,Coimbatore Knitwears,1860,Active
+PROD0070,Feeding Night Suit,Maternity Clothing,Loungewear,S,Beige,Festive,Sri Lakshmi Textiles,930,Active
+PROD0071,Maternity Oversized T-Shirt,Maternity Clothing,Tshirts,M,Black,Summer,Chennai Cotton Works,1670,Active
+PROD0072,Maternity Cotton Nightwear,Maternity Clothing,Loungewear,L,Maroon,Festive,Sri Lakshmi Textiles,1060,Active
+PROD0073,Maternity Feeding Kurti,Maternity Clothing,Kurtis,S,Navy Blue,Festive,Kaveri Garments,1760,Active
+PROD0074,Nursing T-Shirt,Maternity Clothing,Tshirts,M,Maroon,All Season,Royal Ethnic Suppliers,540,Active
+PROD0075,Nursing T-Shirt,Maternity Clothing,Tshirts,S,Green,Festive,Aishwarya Apparels,750,Active
+PROD0076,Feeding Lounge Set,Maternity Clothing,Tshirt Pant Sets,XL,Beige,All Season,Royal Ethnic Suppliers,1630,Low Stock
+PROD0077,Rayon Kurti,Non Maternity,Kurtis,L,Mustard,All Season,Coimbatore Knitwears,1390,Active
+PROD0078,Feeding T-Shirt,Maternity Clothing,Tshirts,XXL,Maroon,All Season,Coimbatore Knitwears,1370,Active
+PROD0079,Maternity Cotton Nightwear,Maternity Clothing,Loungewear,L,Pink,Winter,Chennai Cotton Works,1580,Active
+PROD0080,Maternity T-Shirt Pant Set,Maternity Clothing,Tshirt Pant Sets,XXL,Green,All Season,Sri Lakshmi Textiles,1710,Active
+PROD0081,Cotton Leggings,Non Maternity,Leggings,L,Black,Monsoon,Royal Ethnic Suppliers,1480,Active
+PROD0082,Feeding Night Suit,Maternity Clothing,Loungewear,XXL,Pink,Summer,Aishwarya Apparels,740,Discontinued
+PROD0083,Maternity Lounge Set,Maternity Clothing,Loungewear,XL,Lavender,Festive,Sri Lakshmi Textiles,1070,Active
+PROD0084,Cotton Casual Dress,Non Maternity,Dresses,M,Lavender,Monsoon,Vasavi Fabrics,1340,Low Stock
+PROD0085,Maxi Dress,Non Maternity,Dresses,L,Black,Festive,Madura Textiles,1580,Active
